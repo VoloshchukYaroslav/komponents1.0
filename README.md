@@ -1,0 +1,1 @@
+# komponents1.0
