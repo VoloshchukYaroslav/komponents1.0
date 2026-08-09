@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "",
+  "homepage": "voloshchukyaroslav.github.io/komponents1.0/",
   "scripts": {
     "dev": "vite",
     "predeploy": "npm run build",
