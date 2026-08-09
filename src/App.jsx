@@ -10,7 +10,7 @@ function App() {
   return (
     <div>
       <Greeting name="Іван" />
-      <Message text="Ласкаво просимо до нашого додатку!" />
+      <Message text="Слава Україні" />
       <Button onClick={handleClick} />
     </div>
   );
