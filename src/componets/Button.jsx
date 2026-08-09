@@ -1,9 +1,5 @@
-function Button() {
-  return (
-    <button type="button" onClick={() => console.log("hello world")}>
-      Click
-    </button>
-  );
+function Button({ onClick }) {
+  return <button onClick={onClick}>Натисни мене</button>;
 }
 
 export default Button;
