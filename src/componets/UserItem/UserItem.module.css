@@ -1,0 +1,22 @@
+.capshion{
+    font-size: 24px;
+    color: aqua;
+}
+.text{
+    font-size: 15px;
+    color: burlywood;
+}
+.desc{
+    font-size: 10px;
+    color: darkgoldenrod;
+}
+.active{
+    font-size: 20px;
+    color: greenyellow;
+}
+.notactive{
+    font-size: 20px;
+    color: red;
+}
+.a{background-color: black;}
+.b{background-color: darkolivegreen;}

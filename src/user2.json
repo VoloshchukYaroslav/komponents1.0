@@ -1,12 +1,12 @@
 [
-  { "id": 11, "name": "Богдан Мороз", "email": "bogdan.moroz@example.com", "age": 24, "phone": "+380671234511" },
-  { "id": 12, "name": "Ірина Коваленко", "email": "iryna.kovalenko@example.com", "age": 31, "phone": "+380671234512" },
-  { "id": 13, "name": "Віктор Романюк", "email": "viktor.romaniuk@example.com", "age": 39, "phone": "+380671234513" },
-  { "id": 14, "name": "Каріна Литвин", "email": "karina.lytvyn@example.com", "age": 27, "phone": "+380671234514" },
-  { "id": 15, "name": "Денис Савчук", "email": "denys.savchuk@example.com", "age": 35, "phone": "+380671234515" },
-  { "id": 16, "name": "Софія Кравець", "email": "sofia.kravets@example.com", "age": 23, "phone": "+380671234516" },
-  { "id": 17, "name": "Павло Іщенко", "email": "pavlo.ishchenko@example.com", "age": 42, "phone": "+380671234517" },
-  { "id": 18, "name": "Аліна Дяченко", "email": "alina.diachenko@example.com", "age": 29, "phone": "+380671234518" },
-  { "id": 19, "name": "Тарас Онищук", "email": "taras.onyshchuk@example.com", "age": 33, "phone": "+380671234519" },
-  { "id": 20, "name": "Лідія Пасічник", "email": "lidiya.pasichnyk@example.com", "age": 25, "phone": "+380671234520" }
+  { "id": 11, "name": "Богдан Мороз", "email": "bogdan.moroz@example.com", "age": 24, "phone": "+380671234511", "isActive": true },
+  { "id": 12, "name": "Ірина Коваленко", "email": "iryna.kovalenko@example.com", "age": 31, "phone": "+380671234512", "isActive": false },
+  { "id": 13, "name": "Віктор Романюк", "email": "viktor.romaniuk@example.com", "age": 39, "phone": "+380671234513", "isActive": true },
+  { "id": 14, "name": "Каріна Литвин", "email": "karina.lytvyn@example.com", "age": 27, "phone": "+380671234514", "isActive": true },
+  { "id": 15, "name": "Денис Савчук", "email": "denys.savchuk@example.com", "age": 35, "phone": "+380671234515", "isActive": false },
+  { "id": 16, "name": "Софія Кравець", "email": "sofia.kravets@example.com", "age": 23, "phone": "+380671234516", "isActive": true },
+  { "id": 17, "name": "Павло Іщенко", "email": "pavlo.ishchenko@example.com", "age": 42, "phone": "+380671234517", "isActive": false },
+  { "id": 18, "name": "Аліна Дяченко", "email": "alina.diachenko@example.com", "age": 29, "phone": "+380671234518", "isActive": true },
+  { "id": 19, "name": "Тарас Онищук", "email": "taras.onyshchuk@example.com", "age": 33, "phone": "+380671234519", "isActive": true },
+  { "id": 20, "name": "Лідія Пасічник", "email": "lidiya.pasichnyk@example.com", "age": 25, "phone": "+380671234520", "isActive": false }
 ]
